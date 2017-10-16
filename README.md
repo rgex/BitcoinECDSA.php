@@ -19,7 +19,7 @@ If you want to launch the test file you need to be under a unix system with libb
 USAGE
 ===============
 
-**Installation**
+#Installation
 
 Best way is to use composer
 ```
